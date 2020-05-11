@@ -1,5 +1,5 @@
 # mybatis
-mybatis的介绍和基本使用1
+[mybatis的介绍和基本使用1](https://github.com/sanzhixiong19860117/mybatis/tree/master/day01)
 
 基本使用2
 
