@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.joy.dao.IEmpDao">
+    <select id="selectEmpByEmpno" resultType="com.joy.dao.bean.Emp">
+        select * from tbl_color where id = #{id}
+    </select>
+</mapper>
